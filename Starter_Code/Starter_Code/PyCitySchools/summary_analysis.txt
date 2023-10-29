@@ -1,0 +1,33 @@
+Summary Analysis
+
+The dataset includes a total of 15 schools, with 8 being of the independent type and 7 being government type.
+The dataset comprises 39,170 students with a combined total budget spending of $24,649,428.00.
+
+The average math score for all students, across all level(Year 9, 10, 11 and 12) in the dataset is approximately 70.338, while the average reading score is approximately 69.980.
+
+Approximately 86.079% of students in the dataset have passed their maths exams, 84.427% of students in the dataset have passed their reading exams.
+The overall passing rate, which includes both maths and reading, is approximately 72.808%.
+
+The top 5 performing schools based on overall maths and reading passing rates are:
+Griffin High School
+Cabrera High School	
+Bailey High School
+Wright High School	
+Rodriguez High School
+
+The 5 bottom performing schools based on overall maths and reading passing rates are:
+Hernandez High School
+Huang High School
+Johnson High School	
+Wilson High School
+Ford High School	
+
+Based on "Scores by School Spending"
+Schools with spending per student in the "585-630" range perform the best overall.	
+
+Based on "Scores by School Size"
+Smaller-scale schools (those with fewer than 1000 students) tend to have the highest average scores and the highest percentages of students passing maths, reading, and both subjects combined. As opposed to larger-scale schools (those with 2000-5000 students), they have lower performance in these metrics, with performance decreasing as school size increases.	
+
+Based on "Scores by School Type"
+Independent schools tend to have higher average scores and higher percentage of students passing both maths and reading, which suggest better overall performance compared to government schools.
+		
